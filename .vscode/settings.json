@@ -1,0 +1,9 @@
+{
+   "java.configuration.updateBuildConfiguration": "automatic",
+   "maven.terminal.customEnv": [
+      {
+        "environmentVariable": "JAVA_HOME",
+        "value": "C:\\Program Files\\Eclipse Adoptium\\jdk-21.0.2.13-hotspot"
+      }
+    ]
+}
